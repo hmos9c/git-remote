@@ -1,3 +1,3 @@
 # git-remote
 
-by Sanas Febriyan
+by hmos9c
